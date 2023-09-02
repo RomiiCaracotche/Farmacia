@@ -1,0 +1,25 @@
+.productos {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-productos {
+    margin-bottom: 2rem;
+}
+
+.productos-list {
+    width: 90%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style: none;
+}
+
+.productos-item {
+    
+}

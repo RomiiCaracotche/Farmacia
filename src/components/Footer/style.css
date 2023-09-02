@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgb(127,207,8);
+}
+
+.item-footer {
+    margin: 0 3rem;
+}
+
+iframe { 
+    width: 200px;
+}
+
+.mapa {
+    align-self: center;
+} 
+
+.li-footer {
+    list-style: none;
+}
+
+.ul-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0;
+}
